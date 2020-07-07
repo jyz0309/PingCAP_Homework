@@ -13,7 +13,7 @@ void test(){
     clock_t start,end;
     for(int i=0;i<4;i++){
         int index = 0;
-        for(int j=0;j<20000000;j++){
+        for(int j=0;j<2500000;j++){
             index = index+rand()%10;
             result.push_back(index);
         }
@@ -25,8 +25,8 @@ void test(){
 }
 int main(void)
 {
-    //test();
-    //return 0;
+    test();
+    return 0;
     srand(time(NULL));//先种种子
     int i,j;
     FILE *fp = NULL;
