@@ -13,6 +13,7 @@
 #include <string>
 
 #define BUFFER_NODE_SIZE 1024
+
 using namespace std;
 class Buffer_Node{
 public:

@@ -49,6 +49,9 @@ thread_pool.cpp: 线程池的相关函数逻辑代码
 K_Merge.h: 败者树多路归并的函数定义
 K_Merge.cpp: 多路归并逻辑代码
 main.cpp: 主函数
+关键变量说明:
+DATA_NUM:数据块的数量
+BUFFER_NODE_SIZE:缓冲区可容纳的元素数量
 ```
 
 ## 后续可优化的点
