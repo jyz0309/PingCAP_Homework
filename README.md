@@ -1,6 +1,6 @@
 # PingCAP_Homework
 PingCAP小作业
-
+(后续更新,已经过啦,8月份去PingCAP进行实习,开心)
 
 
 ## 题目
